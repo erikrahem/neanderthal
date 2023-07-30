@@ -1,1 +1,2 @@
-# neanderthal
+# Neanderthal
+*"You are a human... in an ancient and wild time. What awaits...*

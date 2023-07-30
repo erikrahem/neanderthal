@@ -1,0 +1,14 @@
+--Beasts--
+Bear
+Cave Lion
+Dinosaur
+Fox
+Mammoth
+Wolf
+
+
+--Monsters--
+Giant Ant
+Giant Spider
+Mummy
+Undead
