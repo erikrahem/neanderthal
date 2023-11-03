@@ -4,5 +4,5 @@
 ### Dogs
 ### Magic
 Shamanism
-Undeath
+Necromancy
 ### Species
