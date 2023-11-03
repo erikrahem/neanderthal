@@ -3,4 +3,6 @@
 
 ### Dogs
 ### Magic
+Shamanism
+Undeath
 ### Species
